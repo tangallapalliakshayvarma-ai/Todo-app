@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack Todo App (Express + MongoDB + HTML/JS)
 
 A clean, minimal Todo application with a Node.js + Express + MongoDB backend and a vanilla HTML/CSS/JS frontend.
@@ -61,3 +62,6 @@ curl -X DELETE http://localhost:5000/api/todos/<id>
 
 ---
 MIT License
+=======
+# Todo-app
+>>>>>>> df073bd822f1b9ac1df7c9760e2babafa3fc92fc
